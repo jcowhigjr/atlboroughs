@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcfd48e5-2352-40cd-9465-6c4f4a188c26" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/googlemaps.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/oldfourthward.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AtlBoroughs.iws" />
@@ -198,7 +196,11 @@
       <created>1384614753579</created>
       <updated>1384614753579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rename index.html to be o4w borough, make map splash page the index">
+      <created>1384614951589</created>
+      <updated>1384614951589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -233,7 +235,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="point to borough map" />
-    <option name="LAST_COMMIT_MESSAGE" value="point to borough map" />
+    <MESSAGE value="rename index.html to be o4w borough, make map splash page the index" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename index.html to be o4w borough, make map splash page the index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
